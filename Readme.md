@@ -21,4 +21,4 @@ AstroAgenda is an design and productivity focused automated calendar application
 
 
 ## Development Progress
-To monitor the ongoing development and progress of AstroAgenda, please visit our [Notion Page](https://www.notion.so/AstroAgenda-Development-Progress).
+To monitor the ongoing development and progress of AstroAgenda, please visit the [Notion Page](https://acmahaja.notion.site/AstroAgenda-d311415cdfe1404f8a9bd18096cfa8a7?pvs=4).

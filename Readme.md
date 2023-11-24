@@ -15,7 +15,7 @@ AstroAgenda is an design and productivity focused automated calendar application
 
 ## Technology Stack
 - **Backend**: Java Vert.x
-- **Frontend**: Svelte
+- **Frontend**: React 
 - **Database**: PostgreSQL
 - **Styling**: Custom CSS
 

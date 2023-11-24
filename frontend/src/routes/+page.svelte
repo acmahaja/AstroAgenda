@@ -1,2 +1,22 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+	import { onMount } from 'svelte';
+	import axios from 'axios';
+
+	let serverMessage: string = '';
+
+	onMount(async () => {
+		try {
+			const res: any = await axios.get('http://localhost:8888/');
+            serverMessage = res.data;
+        } catch (error) {
+			console.log(error);
+		}
+	});
+
+	async function getServerMessage() {}
+
+	getServerMessage();
+</script>
+
+<h1>AstroAgenda</h1>
+<p>Server Message: {serverMessage}</p>

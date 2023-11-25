@@ -4,7 +4,7 @@
 # AstroAgenda: Smart Calendar and To-Do List App
 
 ## Introduction
-AstroAgenda is an design and productivity focused automated calendar application. It includes smart calendar with a comprehensive to-do list, an automated system to manage schedules, events, and tasks. 
+AstroAgenda is a design and productivity focused automated calendar application. It includes a smart calendar with a comprehensive to-do list, an automated system to manage schedules, events, and tasks. 
 
 ## Features
 - **Google Calendar Integration**: Sync and manage your Google Calendar events.

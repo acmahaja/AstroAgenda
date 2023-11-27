@@ -23,6 +23,11 @@ frontend/out/
 # Ignore Neovim specific files
 nvim-logs/
 
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db

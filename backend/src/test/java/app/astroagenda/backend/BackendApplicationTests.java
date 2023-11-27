@@ -1,10 +1,10 @@
-package app.astroagenda.astroagenda;
+package app.astroagenda.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AstroagendaApplicationTests {
+class BackendApplicationTests {
 
 	@Test
 	void contextLoads() {

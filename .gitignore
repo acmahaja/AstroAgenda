@@ -1,0 +1,29 @@
+# Ignore Neovim swap files
+*.swp
+
+# Ignore Java build artifacts
+backend/target/
+
+# Ignore Java IDE files
+.idea/
+*.iml
+
+# Ignore Node.js dependencies
+frontend/node_modules/
+
+# Ignore Vite build artifacts
+frontend/dist/
+frontend/.vite/
+
+# Ignore React build artifacts
+frontend/build/
+frontend/.next/
+frontend/out/
+
+# Ignore Neovim specific files
+nvim-logs/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+

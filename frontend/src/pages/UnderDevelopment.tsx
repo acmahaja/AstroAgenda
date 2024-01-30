@@ -1,13 +1,13 @@
 import React from "react";
-import Navbar from "../components/NavBar"
+import Navbar from "../components/NavBar";
+import StarBackground from "../components/StarBackground";
 
 function UnderDevelopment() {
     return (
-    <div className="background-container">
-        <div className="stars" />
-        <div className="twinkling" />
+      <div className="min-h-screen inter">
+        <StarBackground />
+        <Navbar />
       </div>
-  
     )
     
 
